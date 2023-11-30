@@ -27,4 +27,4 @@ ids, face = getPerson(path)
 recognizer.train(face, np.array(ids))
 recognizer.write("trainer.yml")
 cv.destroyAllWindows()
-print("")
+print("")#sex mit amen ist zehr gut
